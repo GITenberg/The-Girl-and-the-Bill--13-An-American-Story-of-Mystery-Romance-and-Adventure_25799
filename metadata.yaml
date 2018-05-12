@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31584'
     url: http://www.gutenberg.org/2009/agents/31584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25799#The-Girl-and-the-Bill--13-An-American-Story-of-Mystery-Romance-and-Adventure
 gutenberg_issued: '2008-06-15'
 gutenberg_type: Text
 identifiers:
